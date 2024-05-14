@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/AbeOueichekPersonalPortfolio/static/css/main.d1588958.css",
+    "main.js": "/AbeOueichekPersonalPortfolio/static/js/main.aabd5398.js",
+    "static/media/avatar6.jpg": "/AbeOueichekPersonalPortfolio/static/media/avatar6.3c21d75339475c412c25.jpg",
+    "static/media/header.jpg": "/AbeOueichekPersonalPortfolio/static/media/header.d84f248a501629ab04af.jpg",
+    "static/media/project2.jpg": "/AbeOueichekPersonalPortfolio/static/media/project2.e1e44da36fddc61178b9.jpg",
+    "static/media/project4.jpg": "/AbeOueichekPersonalPortfolio/static/media/project4.7abd7820e08e25bdb18a.jpg",
+    "static/media/avatar7.jpg": "/AbeOueichekPersonalPortfolio/static/media/avatar7.1ee23818ec93451dbb2e.jpg",
+    "static/media/avatar1.jpg": "/AbeOueichekPersonalPortfolio/static/media/avatar1.704002c92e80d70e4148.jpg",
+    "static/media/avatar4.jpg": "/AbeOueichekPersonalPortfolio/static/media/avatar4.18b531daaa821e8ea971.jpg",
+    "static/media/avatar3.jpg": "/AbeOueichekPersonalPortfolio/static/media/avatar3.a6f56f2fbc13c72e1301.jpg",
+    "static/media/about.jpg": "/AbeOueichekPersonalPortfolio/static/media/about.92155055251c7ed673f4.jpg",
+    "static/media/avatar5.jpg": "/AbeOueichekPersonalPortfolio/static/media/avatar5.f057072a00d9d29ee257.jpg",
+    "static/media/logo.jpg": "/AbeOueichekPersonalPortfolio/static/media/logo.3a52b2670d70d1a32460.jpg",
+    "static/media/avatar2.jpg": "/AbeOueichekPersonalPortfolio/static/media/avatar2.83c37565add525a54fde.jpg",
+    "static/media/cv.pdf": "/AbeOueichekPersonalPortfolio/static/media/cv.a6b3d573ca11d600b49f.pdf",
+    "static/media/project3.jpg": "/AbeOueichekPersonalPortfolio/static/media/project3.9032e1bd1537733dfbba.jpg",
+    "static/media/project1.jpg": "/AbeOueichekPersonalPortfolio/static/media/project1.28e14fba38692fc7bdb9.jpg",
+    "index.html": "/AbeOueichekPersonalPortfolio/index.html",
+    "main.d1588958.css.map": "/AbeOueichekPersonalPortfolio/static/css/main.d1588958.css.map",
+    "main.aabd5398.js.map": "/AbeOueichekPersonalPortfolio/static/js/main.aabd5398.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1588958.css",
+    "static/js/main.aabd5398.js"
+  ]
+}
